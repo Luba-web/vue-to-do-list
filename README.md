@@ -1,4 +1,4 @@
-# to-do-list
+# vue-to-do-list
 
 ### about
 
@@ -11,4 +11,4 @@ I present to you the to-do-list app so that you can keep track of everything you
 
 ####
 
-[Ссылка на GitHub Pages](https://luba-web.github.io/to-do-list/)
+[Ссылка на GitHub Pages](https://luba-web.github.io/vue-to-do-list/)
